@@ -1,0 +1,1 @@
+this is feature config file to store feature branch related files info
