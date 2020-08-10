@@ -1,0 +1,1 @@
+this is config file of the bugfix2.1 of feature1.0 file
