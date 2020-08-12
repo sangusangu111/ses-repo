@@ -1,2 +1,1 @@
-this is bugfix file and it has details like what are all bugs we have and relavent details of those.commiting changes via feature branch.`:wq
-
+this is bugfix file and it has details like what are all bugs we have and relavent details of those.
