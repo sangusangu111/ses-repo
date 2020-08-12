@@ -1,1 +1,1 @@
-this is feature config file to store feature branch related files info
+this is feature config file to store feature branch related files info(i am going to commit this via feature branch)
