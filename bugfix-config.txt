@@ -1,1 +1,1 @@
-this is bugfix file and it has details like what are all bugs we have and relavent details of those.
+this is bugfix file and it has details like what are all bugs we have and relavent details of those.Now i am adding to check conflicts
